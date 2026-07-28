@@ -10,7 +10,7 @@ astroid==1.5.3
 astropy==2.0.2
 attrs==18.1.0
 aws-requests-auth==0.4.1
-awscli==1.15.10
+awscli==1.44.78
 Babel==2.5.0
 backcall==0.1.0
 backports.shutil-get-terminal-size==1.0.0
